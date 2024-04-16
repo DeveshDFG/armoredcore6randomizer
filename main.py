@@ -1853,7 +1853,7 @@ class PartSelector(QWidget):
         if 0 <= index < len(self.builds):
             self.current_build_index = index
             self.parts, self.total_weight, self.total_en_load, self.legs_load_limit, self.adjusted_generator_output = self.builds[index]
-            self.setWindowTitle(f'Mech Part Selector - Build {self.current_build_index + 1}')
+            self.setWindowTitle(f'Armored Core 6 Randomizer - Build {self.current_build_index + 1}')
             self.addPartsToGrid()
 
     def randomizeBuilds(self):
