@@ -710,7 +710,7 @@ parts = {
             'EN Load': 570
         },
         'DF-GA-09 SHAO-WEI': {
-            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/9a/DF-GA-09_SHAO-WEI.png   ',
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/9a/DF-GA-09_SHAO-WEI.png',
             'Weight': 3960,
             'EN Load': 404
         }
@@ -1285,163 +1285,180 @@ parts = {
         }
     },
     'Legs': {
-        'Bipedal': {
-            'AL-J-121 BASHO': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/6/6e/Part_icon_ACVI_AL-J-121_BASHO.png',
-                'Weight': 20520,
-                'EN Load': 300,
-                'Load Limit': 62600
-            },
-            'AL-J-121/RC JAILBREAK': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/5/51/Part_icon_ACVI_AL-J-121_RC_JAILBREAK.png',
-                'Weight': 18560,
-                'EN Load': 300,
-                'Load Limit': 62600
-            },
-            'LG-011 MELANDER': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/0/09/Part_icon_ACVI_LG-011_MELANDER.png',
-                'Weight': 18700,
-                'EN Load': 365,
-                'Load Limit': 60520
-            },
-            'LG-012 MELANDER C3': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/9e/Part_icon_LG-012_MELANDER_C3.png',
-                'Weight': 17210,
-                'EN Load': 355,
-                'Load Limit': 55440
-            },
-            'DF-LG-08 TIAN-QIANG': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/3/34/Part_icon_ACVI_DF-LG-08_TIAN-QIANG.png',
-                'Weight': 23600,
-                'EN Load': 400,
-                'Load Limit': 82600
-            },
-            'VP-422': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/1/13/Part_icon_ACVI_VP-422.png',
-                'Weight': 17900,
-                'EN Load': 387,
-                'Load Limit': 58620
-            },
-            'NACHTREIHER/42E': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/1/11/Part_icon_ACVI_NACHTREIHER_42E.png',
-                'Weight': 14030,
-                'EN Load': 462,
-                'Load Limit': 48650
-            },
-            'VE-42A': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/e/ee/Part_icon_ACVI_VE-42A.png',
-                'Weight': 28950,
-                'EN Load': 465,
-                'Load Limit': 85700
-            },
-            '2C-2000 CRAWLER': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/5/5b/Part_icon_ACVI_2C-2000_CRAWLER.png',
-                'Weight': 16300,
-                'EN Load': 280,
-                'Load Limit': 51200
-            },
-            '2C-3000 WRECKER': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/2/29/Part_icon_ACVI_2C-3000_WRECKER.png',
-                'Weight': 21680,
-                'EN Load': 680,
-                'Load Limit': 68900
-            },
-            '2S-5000 DESSERT': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/7/7f/Part_icon_ACVI_2S-5000_DESSERT.png',
-                'Weight': 25880,
-                'EN Load': 420,
-                'Load Limit': 77100
-            },
-            'EL-TL-10 FIRMEZA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/9b/Part_icon_ACVI_EL-TL-10_FIRMEZA.png',
-                'Weight': 11200,
-                'EN Load': 378,
-                'Load Limit': 52100
-            },
-            'EL-PL-00 ALBA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/0/0d/Part_icon_ACVI_EL-PL-00_ALBA.png',
-                'Weight': 13150,
-                'EN Load': 360,
-                'Load Limit': 50100
-            },
-            '06-041 MIND ALPHA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/4/40/Part_icon_ACVI_06-041_MIND_ALPHA.png',
-                'Weight': 22110,
-                'EN Load': 432,
-                'Load Limit': 63810
-            },
-            'IA-C01L: EPHEMERA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/2/20/Part_icon_ACVI_IA-C01L_EPHEMERA.png',
-                'Weight': 15200,
-                'EN Load': 398,
-                'Load Limit': 55050
-            },
-            'IB-C03L: HAL 826': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/5/54/Part_icon_ACVI_IB-C03L_HAL_826.png',
-                'Weight': 20890,
-                'EN Load': 385,
-                'Load Limit': 64900
-            }
+        'AL-J-121 BASHO': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/6/6e/Part_icon_ACVI_AL-J-121_BASHO.png',
+            'Weight': 20520,
+            'EN Load': 300,
+            'Load Limit': 62600,
+            'Type': "Non-Tank"
         },
-        'Tetrapod': {
-            'LG-033M VERRILL': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/a/ae/Part_icon_ACVI_LG-033M_VERRILL.png',
-                'Weight': 36200,
-                'EN Load': 675,
-                'Load Limit': 76200
-            },
-            'VP-424': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/95/Part_icon_ACVI_VP-424.png',
-                'Weight': 31600,
-                'EN Load': 760,
-                'Load Limit': 69800
-            },
-            'LAMMERGEIER/42F': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/0/09/LAMMERGEIER-42F.png',
-                'Weight': 22430,
-                'EN Load': 790,
-                'Load Limit': 52460
-            }
+        'AL-J-121/RC JAILBREAK': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/5/51/Part_icon_ACVI_AL-J-121_RC_JAILBREAK.png',
+            'Weight': 18560,
+            'EN Load': 300,
+            'Load Limit': 62600,
+            'Type': "Non-Tank"
         },
-        'Reverse-Joint': {
-            'KASUAR/42Z': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/97/Part_icon_ACVI_KASUAR_42Z.png',
-                'Weight': 19060,
-                'EN Load': 388,
-                'Load Limit': 47820
-            },
-            '06-042 MIND BETA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/3/35/Part_icon_ACVI_06-042_MIND_BETA.png',
-                'Weight': 22200,
-                'EN Load': 426,
-                'Load Limit': 61600
-            },
-            'RC-2000 SPRING CHICKEN': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/f/f7/Part_icon_ACVI_RC-2000_SPRING_CHICKEN.png',
-                'Weight': 25890,
-                'EN Load': 402,
-                'Load Limit': 68360
-            }
+        'LG-011 MELANDER': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/0/09/Part_icon_ACVI_LG-011_MELANDER.png',
+            'Weight': 18700,
+            'EN Load': 365,
+            'Load Limit': 60520,
+            'Type': "Non-Tank"
         },
-        'Tank': {
-            'LG-022T BORNEMISSZA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/d/d7/Part_icon_ACVI_LG-022T_BORNEMISSZA.png',
-                'Weight': 49800,
-                'EN Load': 455,
-                'Load Limit': 100300
-            },
-            'VE-42B': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/c/ca/Part_icon_ACVI_VE-42B.png',
-                'Weight': 46600,
-                'EN Load': 824,
-                'Load Limit': 91000
-            },
-            'EL-TL-11 FORTALEZA': {
-                'Image': 'https://static.wikia.nocookie.net/armoredcore/images/6/67/Part_icon_ACVI_EL-TL-11_FORTALEZA.png',
-                'Weight': 24650,
-                'EN Load': 620,
-                'Load Limit': 69300
-            }
+        'LG-012 MELANDER C3': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/9e/Part_icon_LG-012_MELANDER_C3.png',
+            'Weight': 17210,
+            'EN Load': 355,
+            'Load Limit': 55440,
+            'Type': "Non-Tank"
+        },
+        'DF-LG-08 TIAN-QIANG': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/3/34/Part_icon_ACVI_DF-LG-08_TIAN-QIANG.png',
+            'Weight': 23600,
+            'EN Load': 400,
+            'Load Limit': 82600,
+            'Type': "Non-Tank"
+        },
+        'VP-422': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/1/13/Part_icon_ACVI_VP-422.png',
+            'Weight': 17900,
+            'EN Load': 387,
+            'Load Limit': 58620,
+            'Type': "Non-Tank"
+        },
+        'NACHTREIHER/42E': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/1/11/Part_icon_ACVI_NACHTREIHER_42E.png',
+            'Weight': 14030,
+            'EN Load': 462,
+            'Load Limit': 48650,
+            'Type': "Non-Tank"
+        },
+        'VE-42A': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/e/ee/Part_icon_ACVI_VE-42A.png',
+            'Weight': 28950,
+            'EN Load': 465,
+            'Load Limit': 85700,
+            'Type': "Non-Tank"
+        },
+        '2C-2000 CRAWLER': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/5/5b/Part_icon_ACVI_2C-2000_CRAWLER.png',
+            'Weight': 16300,
+            'EN Load': 280,
+            'Load Limit': 51200,
+            'Type': "Non-Tank"
+        },
+        '2C-3000 WRECKER': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/2/29/Part_icon_ACVI_2C-3000_WRECKER.png',
+            'Weight': 21680,
+            'EN Load': 680,
+            'Load Limit': 68900,
+            'Type': "Non-Tank"
+        },
+        '2S-5000 DESSERT': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/7/7f/Part_icon_ACVI_2S-5000_DESSERT.png',
+            'Weight': 25880,
+            'EN Load': 420,
+            'Load Limit': 77100,
+            'Type': "Non-Tank"
+        },
+        'EL-TL-10 FIRMEZA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/9b/Part_icon_ACVI_EL-TL-10_FIRMEZA.png',
+            'Weight': 11200,
+            'EN Load': 378,
+            'Load Limit': 52100,
+            'Type': "Non-Tank"
+        },
+        'EL-PL-00 ALBA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/0/0d/Part_icon_ACVI_EL-PL-00_ALBA.png',
+            'Weight': 13150,
+            'EN Load': 360,
+            'Load Limit': 50100,
+            'Type': "Non-Tank"
+        },
+        '06-041 MIND ALPHA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/4/40/Part_icon_ACVI_06-041_MIND_ALPHA.png',
+            'Weight': 22110,
+            'EN Load': 432,
+            'Load Limit': 63810,
+            'Type': "Non-Tank"
+        },
+        'IA-C01L: EPHEMERA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/2/20/Part_icon_ACVI_IA-C01L_EPHEMERA.png',
+            'Weight': 15200,
+            'EN Load': 398,
+            'Load Limit': 55050,
+            'Type': "Non-Tank"
+        },
+        'IB-C03L: HAL 826': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/5/54/Part_icon_ACVI_IB-C03L_HAL_826.png',
+            'Weight': 20890,
+            'EN Load': 385,
+            'Load Limit': 64900,
+            'Type': "Non-Tank"
+        },
+        'KASUAR/42Z': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/97/Part_icon_ACVI_KASUAR_42Z.png',
+            'Weight': 19060,
+            'EN Load': 388,
+            'Load Limit': 47820,
+            'Type': "Non-Tank"
+        },
+        '06-042 MIND BETA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/3/35/Part_icon_ACVI_06-042_MIND_BETA.png',
+            'Weight': 22200,
+            'EN Load': 426,
+            'Load Limit': 61600,
+            'Type': "Non-Tank"
+        },
+        'RC-2000 SPRING CHICKEN': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/f/f7/Part_icon_ACVI_RC-2000_SPRING_CHICKEN.png',
+            'Weight': 25890,
+            'EN Load': 402,
+            'Load Limit': 68360,
+            'Type': "Non-Tank"
+        },
+        'LG-033M VERRILL': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/a/ae/Part_icon_ACVI_LG-033M_VERRILL.png',
+            'Weight': 36200,
+            'EN Load': 675,
+            'Load Limit': 76200,
+            'Type': "Non-Tank"
+        },
+        'VP-424': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/9/95/Part_icon_ACVI_VP-424.png',
+            'Weight': 31600,
+            'EN Load': 760,
+            'Load Limit': 69800,
+            'Type': "Non-Tank"
+        },
+        'LAMMERGEIER/42F': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/0/09/LAMMERGEIER-42F.png',
+            'Weight': 22430,
+            'EN Load': 790,
+            'Load Limit': 52460,
+            'Type': "Non-Tank"
+        },
+        'LG-022T BORNEMISSZA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/d/d7/Part_icon_ACVI_LG-022T_BORNEMISSZA.png',
+            'Weight': 49800,
+            'EN Load': 455,
+            'Load Limit': 100300,
+            'Type': "Tank"
+        },
+        'VE-42B': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/c/ca/Part_icon_ACVI_VE-42B.png',
+            'Weight': 46600,
+            'EN Load': 824,
+            'Load Limit': 91000,
+            'Type': "Tank"
+        },
+        'EL-TL-11 FORTALEZA': {
+            'Image': 'https://static.wikia.nocookie.net/armoredcore/images/6/67/Part_icon_ACVI_EL-TL-11_FORTALEZA.png',
+            'Weight': 24650,
+            'EN Load': 620,
+            'Load Limit': 69300,
+            'Type': "Tank"
         }
     },
     'Booster': {
@@ -1658,20 +1675,11 @@ Build = {}
 
 # Selects a random part from a category, the backbone I suppose
 def random_part_selection(category):
-    if category == 'Legs':
-        leg_types = list(parts[category].keys())
-        selected_type = random.choice(leg_types)
-        leg_options = list(parts[category][selected_type].keys())
-        selected_leg = random.choice(leg_options)
-        part_info = parts[category][selected_type][selected_leg]
-        print(f"Selected {category} ({selected_type}): {selected_leg} with info {part_info}")
-        return f"{selected_type} - {selected_leg}", part_info
-    else:
-        part_keys = list(parts[category].keys())
-        selected_key = random.choice(part_keys)
-        part_info = parts[category][selected_key]
-        print(f"Selected {category}: {selected_key} with info {part_info}")
-        return selected_key, part_info
+    part_keys = list(parts[category].keys())
+    selected_key = random.choice(part_keys)
+    part_info = parts[category][selected_key]
+    print(f"Selected {category}: {selected_key} with info {part_info}")
+    return selected_key, part_info
 
 # Function to calculate the actual total EN limit, uses the core's adjusted output and generator's En Output to calculate
 def calculate_adjusted_generator_output(core_info, generator_info):
@@ -1683,53 +1691,58 @@ def calculate_adjusted_generator_output(core_info, generator_info):
 # Function to generate the build itself. Selects legs first for the load limit, then the core for the adjusted output stat, and then the generator for its EN Output
 # For the rest of the parts, they just randomly get added and their stats get added to the AC's weight and EN Load
 # If the generation has to be retried because of EN Load, then it will keep the generator (more diversity)
-def generate_build(parts, retry=False, previous_generator_info=None):
+def generate_build(parts, retry=False, previous_generator_info=None, previous_leg_info=None):
     build = {}
     total_weight = 0
     total_en_load = 0
-
-    # Selection of legs
-    legs_category = 'Legs'
-    selected_legs, legs_info = random_part_selection(legs_category)
-    build[legs_category] = (selected_legs, legs_info)
-    total_en_load += legs_info.get('EN Load', 0)
-    print(f"Selected {legs_category}: {selected_legs} with EN Load: {legs_info['EN Load']}")
 
     # Selection of core
     core_category = 'Core'
     selected_core, core_info = random_part_selection(core_category)
     build[core_category] = (selected_core, core_info)
     total_weight += core_info['Weight']
-    total_en_load += core_info.get('EN Load', 0)
-    print(f"Selected {core_category}: {selected_core} with EN Load: {core_info.get('EN Load', 'N/A')}")
+    total_en_load += core_info['EN Load']
+    print(f"Selected {core_category}: {selected_core} with EN Load: {core_info['EN Load']}")
 
-    # Define generator category outside the if-else block
+    # Define generator and legs category outside the if-else block
     generator_category = 'Generator'
+    legs_category = 'Legs'
 
-    if retry and previous_generator_info:
-        # Reuse the previously selected generator if retrying
+    if retry and (previous_generator_info or previous_leg_info):
+        # Reuse the previously selected generator and legs if retrying
         selected_generator, generator_info = previous_generator_info
+        selected_legs, legs_info = previous_leg_info
         print(f"Reusing {generator_category}: {selected_generator} with EN Output: {generator_info['EN Output']}")
+        print(f"Reusing {legs_category}: {selected_legs} with Load Limit: {legs_info['Load Limit']}")
     else:
-        # Selection of generator
+        # Selection of generator and legs
         selected_generator, generator_info = random_part_selection(generator_category)
+        selected_legs, legs_info = random_part_selection(legs_category)
         print(f"Selected {generator_category}: {selected_generator} with EN Output: {generator_info['EN Output']}")
+        print(f"Selected {legs_category}: {selected_legs} with Load Limit: {legs_info['Load Limit']}")
 
     build[generator_category] = (selected_generator, generator_info)
+    build[legs_category] = (selected_legs, legs_info)
+    load_limit = legs_info['Load Limit']
+    total_en_load += legs_info['EN Load']
     total_weight += generator_info['Weight']
     adjusted_output = calculate_adjusted_generator_output(core_info, generator_info)
+    leg_type = legs_info['Type']
+    print(f"Leg type: {leg_type}")
+
+
 
     # Configurable exclusion rules for arms and backs
     optional_categories = {
-        'RArm': 0.2,  # 20% chance to not include RArm
-        'LArm': 0.2,  # 20% chance to not include LArm
-        'RBack': 0.2,  # 20% chance to not include RBack
-        'LBack': 0.2,  # 20% chance to not include LBack
+        'RArm': 0.15,  # 20% chance to not include RArm
+        'LArm': 0.15,  # 20% chance to not include LArm
+        'RBack': 0.15,  # 20% chance to not include RBack
+        'LBack': 0.15,  # 20% chance to not include LBack
     }
 
     # Other mandatory categories
     mandatory_categories = ['FCS', 'Head', 'Arms', 'Expansion']
-    if 'Tank' not in selected_legs:
+    if "Non-Tank" in leg_type:
         mandatory_categories.append('Booster')
     else:
         build['Booster'] = ('N/A', {'Image': 'N/A', 'Weight': 0, 'EN Load': 0})
@@ -1740,30 +1753,30 @@ def generate_build(parts, retry=False, previous_generator_info=None):
             selected_part, part_info = random_part_selection(category)
             build[category] = (selected_part, part_info)
             if 'Weight' in part_info:
-                total_weight += part_info.get('Weight', 0)
+                total_weight += part_info['Weight']
             if 'EN Load' in part_info:
-                total_en_load += part_info.get('EN Load', 0)
+                total_en_load += part_info['EN Load']
             if 'Image' in part_info:
                 load_image(part_info['Image'])  # This will cache the image
-            print(f"Added {category}: {selected_part} with Weight: {part_info.get('Weight', 'N/A')}, EN Load: {part_info.get('EN Load', 'N/A')}")
+            print(f"Added {category}: {selected_part} with Weight: {part_info['Weight']}, EN Load: {part_info['EN Load']}")
 
     for category in mandatory_categories:
         selected_part, part_info = random_part_selection(category)
         build[category] = (selected_part, part_info)
         if 'Weight' in part_info:
-            total_weight += part_info.get('Weight', 0)
+            total_weight += part_info['Weight']
         if 'EN Load' in part_info:
-            total_en_load += part_info.get('EN Load', 0)
+            total_en_load += part_info['EN Load']
         if 'Image' in part_info:
             load_image(part_info['Image'])  # This will cache the image
-        print(f"Added {category}: {selected_part} with Weight: {part_info.get('Weight', 'N/A')}, EN Load: {part_info.get('EN Load', 'N/A')}")
+        print(f"Added {category}: {selected_part} with Weight: {part_info['Weight']}, EN Load: {part_info.get('EN Load', 'N/A')}")
 
     print(f"Total weight (excluding legs): {total_weight}")
     print(f"Total energy load: {total_en_load} / {adjusted_output}")
 
-    if total_en_load > adjusted_output:
-        print("Energy load exceeds output, trying again...")
-        return generate_build(parts, retry=True, previous_generator_info=(selected_generator, generator_info))
+    if total_en_load > adjusted_output or total_weight > load_limit:
+        print(f"Either Total Weight: {total_weight} exceeds Load Limit: {load_limit} or Total EN Load: {total_en_load} exceeds EN Output: {adjusted_output}")
+        return generate_build(parts, retry=True, previous_generator_info=(selected_generator, generator_info), previous_leg_info=(selected_legs, legs_info))
 
     return build, total_weight, total_en_load, legs_info['Load Limit'], adjusted_output
 
@@ -1799,13 +1812,8 @@ class PartSelector(QWidget):
 
         # Main Menu Bar for application-level options
         self.mainMenuBar = QMenuBar()
-        self.buildMenu = self.mainMenuBar.addMenu('Builds')
+        self.buildMenu = self.mainMenuBar.addMenu('Switch Build')
         self.layout().addWidget(self.mainMenuBar)  # Add the main menu bar to the vertical layout
-
-        # Build Switcher Menu Bar
-        self.switcherMenuBar = QMenuBar()
-        self.switcherMenu = self.switcherMenuBar.addMenu('Switch Build')
-        self.layout().addWidget(self.switcherMenuBar)  # Add the switcher menu bar below the main menu bar
 
         # Grid layout for the main content
         self.grid = QGridLayout()
@@ -1847,7 +1855,6 @@ class PartSelector(QWidget):
     def addBuild(self, build_data):
         self.builds.append(build_data)
         self.updateBuildMenu()
-        self.updateSwitcherMenu()
 
     def displayBuild(self, index):
         if 0 <= index < len(self.builds):
@@ -1860,7 +1867,6 @@ class PartSelector(QWidget):
         num_builds = int(self.buildNumComboBox.currentText()) # This allows players to choose how much builds they want randomized through combobox (click select number)
         self.builds = [generate_build(parts) for _ in range(num_builds)]
         self.updateBuildMenu()
-        self.updateSwitcherMenu()
         self.displayBuild(0)
 
     def updateBuildMenu(self):
@@ -1869,13 +1875,6 @@ class PartSelector(QWidget):
             action = QAction(f'Build #{i + 1}', self)
             action.triggered.connect(lambda _, x=i: self.displayBuild(x))
             self.buildMenu.addAction(action)
-
-    def updateSwitcherMenu(self):
-        self.switcherMenu.clear()
-        for i in range(len(self.builds)):
-            action = QAction(f'Switch to Build #{i + 1}', self)
-            action.triggered.connect(lambda _, x=i: self.displayBuild(x))
-            self.switcherMenu.addAction(action)
 
     def addPartsToGrid(self):
         for i in reversed(range(self.grid.count())):

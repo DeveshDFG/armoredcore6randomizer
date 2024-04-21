@@ -2,7 +2,8 @@
  True,
  False,
  True,
- 'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ 'c:\\program '
+ 'files\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
  None,
  False,
  False,
@@ -50,16 +51,20 @@
    'C:\\Users\\devex\\PycharmProjects\\armoredcore6randomizer\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
-   'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
-   'PYSOURCE'),
-  ('pyi_rth_inspect',
-   'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'c:\\program '
+   'files\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('pyi_rth_pyqt5',
-   'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'C:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
    'PYSOURCE'),
   ('pyi_rth_pkgutil',
-   'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'C:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('main',
    'C:\\Users\\devex\\PycharmProjects\\armoredcore6randomizer\\main.py',
@@ -67,8 +72,9 @@
  [],
  False,
  False,
- 1713237958,
+ 1713729792,
  [('run.exe',
-   'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'c:\\program '
+   'files\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
- 'C:\\Users\\devex\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll')
+ 'c:\\program files\\python38\\python38.dll')
